@@ -4,13 +4,15 @@ This project is designed to guide you through setting up a cloud-based applicati
 
 ## Table of Contents
 
-1. [Setup Local](01_setup-local.md)
-2. [VPC Network Configuration](02_vpc-network.md)
-3. [Cloud Storage Setup](03_cloud-storage.md)
-4. [Cloud SQL Setup](04_cloud-sql.md)
-5. [Docker File Configuration](05_docker-file.md)
-6. [Artifact Registry Setup](06_artifact-registry.md)
-7. [Cloud Build Setup](07_cloud-build.md)
+1. [Setup Local](01-setup-local.md)
+2. [IAM Admin Configuration](02-iam-admin.md)
+3. [VPC Network Configuration](03-vpc-network.md)
+4. [Cloud Storage Setup](04-cloud-storage.md)
+5. [Cloud SQL Setup](05-cloud-sql.md)
+6. [Docker File Configuration](06-docker-file.md)
+7. [Cloud Build Setup](07-artifact-registry.md)
+8. [Cloud Build Setup](08-secret-manager.md)
+9. [Cloud Build Setup](09-cloud-build.md)
 
 ## Project Overview
 
